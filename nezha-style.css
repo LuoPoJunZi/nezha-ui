@@ -296,3 +296,8 @@ html.dark body {
 .dark .font-medium.opacity-50 {
   opacity: unset;
 }
+a.ui.button.green {
+    display: block !important;
+    position: fixed !important;
+    z-index: 10000 !important;
+}
